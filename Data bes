@@ -1,0 +1,17 @@
+{
+  "owners": ["6282374898757"],
+  "akses": ["6282374898757"]
+}
+module.exports = {
+  tokens: "8387428585:AAEbwdktkRbXwXqPxbnzcZZ2y1SzAx9IjjI",  // Ubah Jadi Token Bot Mu !!!
+  owner: "6282374898757", // Ubah Jadi Id Mu !!!
+  port: "3024", // Ubah Jadi Port Panel Mu !!!
+  ipvps: "0.0.0.0" // Ubah Jadi Ip Vps Mu !!!
+};
+[
+  {
+    "username": "admin",
+    "key": "Saturn",
+    "expired": 1926921999824
+  }
+]
